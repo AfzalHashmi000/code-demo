@@ -1,4 +1,4 @@
 # code-demo
 This is my first Git Repository
 <br>
-Author - Afzal Hashmi
+Author - Afzal(code-demo)
