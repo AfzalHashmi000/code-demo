@@ -1,4 +1,1 @@
-# code-demo
-This is my first Git Repository
-<br>
-Author - Afzal(code-demo)
+# This is my Local Repo
